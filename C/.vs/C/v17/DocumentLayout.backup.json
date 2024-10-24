@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\a.perignon\\source\\repos\\C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|C:\\Users\\a.perignon\\source\\repos\\C\\C\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|solutionrelative:C\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|C:\\Users\\a.perignon\\source\\repos\\C\\C\\Bullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|solutionrelative:C\\Bullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|C:\\Users\\a.perignon\\source\\repos\\C\\C\\Bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|solutionrelative:C\\Bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|C:\\Users\\a.perignon\\source\\repos\\C\\C\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|solutionrelative:C\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|C:\\Users\\a.perignon\\source\\repos\\C\\C\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|solutionrelative:C\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|C:\\Users\\a.perignon\\source\\repos\\C\\C\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|solutionrelative:C\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|C:\\Users\\a.perignon\\source\\repos\\C\\C\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|solutionrelative:C\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|C:\\Users\\a.perignon\\source\\repos\\C\\C\\Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|solutionrelative:C\\Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|C:\\Users\\a.perignon\\source\\repos\\C\\C\\GameOfLife.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|solutionrelative:C\\GameOfLife.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|C:\\Users\\a.perignon\\source\\repos\\C\\C\\C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|solutionrelative:C\\C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|C:\\Users\\a.perignon\\source\\repos\\C\\C\\GameOfLife.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|solutionrelative:C\\GameOfLife.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\a.perignon\\source\\repos\\C\\C\\Main.cpp",
+              "RelativeDocumentMoniker": "C\\Main.cpp",
+              "ToolTip": "C:\\Users\\a.perignon\\source\\repos\\C\\C\\Main.cpp",
+              "RelativeToolTip": "C\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T13:16:49.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bullet.cpp",
+              "DocumentMoniker": "C:\\Users\\a.perignon\\source\\repos\\C\\C\\Bullet.cpp",
+              "RelativeDocumentMoniker": "C\\Bullet.cpp",
+              "ToolTip": "C:\\Users\\a.perignon\\source\\repos\\C\\C\\Bullet.cpp",
+              "RelativeToolTip": "C\\Bullet.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T14:32:49.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bullet.h",
+              "DocumentMoniker": "C:\\Users\\a.perignon\\source\\repos\\C\\C\\Bullet.h",
+              "RelativeDocumentMoniker": "C\\Bullet.h",
+              "ToolTip": "C:\\Users\\a.perignon\\source\\repos\\C\\C\\Bullet.h",
+              "RelativeToolTip": "C\\Bullet.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-24T14:30:40.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameManager.cpp",
+              "DocumentMoniker": "C:\\Users\\a.perignon\\source\\repos\\C\\C\\GameManager.cpp",
+              "RelativeDocumentMoniker": "C\\GameManager.cpp",
+              "ToolTip": "C:\\Users\\a.perignon\\source\\repos\\C\\C\\GameManager.cpp",
+              "RelativeToolTip": "C\\GameManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T13:20:05.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameManager.h",
+              "DocumentMoniker": "C:\\Users\\a.perignon\\source\\repos\\C\\C\\GameManager.h",
+              "RelativeDocumentMoniker": "C\\GameManager.h",
+              "ToolTip": "C:\\Users\\a.perignon\\source\\repos\\C\\C\\GameManager.h",
+              "RelativeToolTip": "C\\GameManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-24T14:36:46.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\a.perignon\\source\\repos\\C\\C\\Player.cpp",
+              "RelativeDocumentMoniker": "C\\Player.cpp",
+              "ToolTip": "C:\\Users\\a.perignon\\source\\repos\\C\\C\\Player.cpp",
+              "RelativeToolTip": "C\\Player.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T13:07:19.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\a.perignon\\source\\repos\\C\\C\\Player.h",
+              "RelativeDocumentMoniker": "C\\Player.h",
+              "ToolTip": "C:\\Users\\a.perignon\\source\\repos\\C\\C\\Player.h",
+              "RelativeToolTip": "C\\Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-24T12:35:07.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Entity.h",
+              "DocumentMoniker": "C:\\Users\\a.perignon\\source\\repos\\C\\C\\Entity.h",
+              "RelativeDocumentMoniker": "C\\Entity.h",
+              "ToolTip": "C:\\Users\\a.perignon\\source\\repos\\C\\C\\Entity.h",
+              "RelativeToolTip": "C\\Entity.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-24T12:31:34.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "C.cpp",
+              "DocumentMoniker": "C:\\Users\\a.perignon\\source\\repos\\C\\C\\C.cpp",
+              "RelativeDocumentMoniker": "C\\C.cpp",
+              "ToolTip": "C:\\Users\\a.perignon\\source\\repos\\C\\C\\C.cpp",
+              "RelativeToolTip": "C\\C.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-09T09:44:28.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameOfLife.cpp",
+              "DocumentMoniker": "C:\\Users\\a.perignon\\source\\repos\\C\\C\\GameOfLife.cpp",
+              "RelativeDocumentMoniker": "C\\GameOfLife.cpp",
+              "ToolTip": "C:\\Users\\a.perignon\\source\\repos\\C\\C\\GameOfLife.cpp",
+              "RelativeToolTip": "C\\GameOfLife.cpp",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAFkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T08:56:36.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameOfLife.h",
+              "DocumentMoniker": "C:\\Users\\a.perignon\\source\\repos\\C\\C\\GameOfLife.h",
+              "RelativeDocumentMoniker": "C\\GameOfLife.h",
+              "ToolTip": "C:\\Users\\a.perignon\\source\\repos\\C\\C\\GameOfLife.h",
+              "RelativeToolTip": "C\\GameOfLife.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-24T08:52:42.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
