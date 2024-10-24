@@ -132,7 +132,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Downloads\Hello SFML.cpp" />
     <ClCompile Include="Bullet.cpp" />
     <ClCompile Include="C.cpp" />
     <ClCompile Include="GameManager.cpp" />
