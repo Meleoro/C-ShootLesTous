@@ -1,13 +1,10 @@
 #include "GameManager.h"
 #include <SFML/Graphics.hpp>
 
-
-GameManager* gameManager = new GameManager();
-
+GameManager* gameManager;
 
 int main(int argc, char* argd[]) {
-	Player* player = new Player(sf::Vector2f(20, 500));
-	gameManager->AddPlayer(player);
+	gameManager = new GameManager();
 
 	sf::RenderWindow window(sf::VideoMode(1000, 1000), "Shoot Em Up");
 

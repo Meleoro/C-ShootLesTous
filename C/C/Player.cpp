@@ -7,10 +7,10 @@ Player::Player(sf::Vector2f startPos) {
 }
 
 void Player::Update() {
-    ApplyInputs();
+    
 }
 
-void Entity::Display(sf::RenderWindow* window) {
+void Player::Display(sf::RenderWindow* window) {
     if (texture.loadFromFile("ship2.png")) {
         sprite.setTexture(texture);
     }
@@ -20,17 +20,12 @@ void Entity::Display(sf::RenderWindow* window) {
     window->draw(sprite);
 }
 
-void Player::ApplyInputs() {
-    sf::Vector2f input = sf::Vector2f(0, 0);
-
-    if (sf::Keyboard::isKeyPressed(sf::Keyboard::Left))
-        input.x = -1;
-    else if (sf::Keyboard::isKeyPressed(sf::Keyboard::Right))
-        input.x = 1;
-    if (sf::Keyboard::isKeyPressed(sf::Keyboard::Down))
-        input.y = 1;
-    else if (sf::Keyboard::isKeyPressed(sf::Keyboard::Up))
-        input.y = -1;
-
+void Player::ApplyInputs(sf::Vector2f input) {
     pos += input * moveSpeed;
+}
+
+Bullet* Player::Shoot() {
+    Bullet* newBullet = new Bullet();
+    newBullet->ShootBullet(pos, sf::Vector2f(1, 0), 1);
+    return newBullet;
 }

@@ -1,13 +1,17 @@
 #pragma once
 #include <SFML/Graphics.hpp>
+#include <iostream>
+#include "list"
+#include "Bullet.h"
 
 class Entity {
 public :
 	virtual void Update() { };
-	void Display(sf::RenderWindow* window);
+	virtual void Display(sf::RenderWindow* window) { };
+	sf::Vector2f pos;
+	double colliderSize;
 
 protected :
-	sf::Vector2f pos;
 	float moveSpeed = 0.3;
 	int health;
 	sf::Sprite sprite;
