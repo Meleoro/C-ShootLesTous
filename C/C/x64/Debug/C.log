@@ -1,4 +1,2 @@
-﻿  Enemy1.cpp
-D:\GIT\C-ShootLesTous\C\C\Entity.h(15,20): warning C4305: 'initialisation' : troncation de 'double' à 'float'
-sfml-graphics-s-d.lib(RenderTarget.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'sfml-graphics-s-d.lib(RenderTarget.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+﻿  UIManager.cpp
   C.vcxproj -> D:\GIT\C-ShootLesTous\C\x64\Debug\C.exe

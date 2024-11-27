@@ -5,21 +5,23 @@ void Bullet::ShootBullet(sf::Vector2f originalPos, sf::Vector2f newDir, float ne
     moveSpeed = newSpeed;
     pos = originalPos;
     isDisplayed = true;
+
+    if (texture.loadFromFile("../Data/shotsmall.png")) {
+        sprite.setTexture(texture);
+    }
 }
 
 void Bullet::VerifyOffScreen() {
-    mustBeRemoved = pos.x > 1000;
+    if(!mustBeRemoved)
+        mustBeRemoved = pos.x > 1500;
 }
 
-void Bullet::Update() {
-	pos += moveSpeed * moveDir;
+void Bullet::Update(float dt) {
+	pos += moveSpeed * moveDir * dt;
     VerifyOffScreen();
 }
 
 void Bullet::Display(sf::RenderWindow* window) {
-    if (texture.loadFromFile("shotsmall.png")) {
-        sprite.setTexture(texture);
-    }
     sprite.setPosition(pos);
     sprite.setScale(sf::Vector2f(3, 3));
     window->draw(sprite);

@@ -4,11 +4,11 @@
 class Bullet {
 public :
 	void ShootBullet(sf::Vector2f originalPos, sf::Vector2f newDir, float newSpeed);
-	void Update();
+	void Update(float dt);
 	void Display(sf::RenderWindow* window);
 	bool mustBeRemoved;
 	sf::Vector2f pos;
-	double colliderSize;
+	double colliderSize = 10;
 
 protected :
 	float moveSpeed;

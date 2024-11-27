@@ -3,5 +3,8 @@
 
 class Enemy : public Entity {
 public:
-	bool VerifyCollisions(std::list<Bullet*> bullets);
+	void VerifyCollisions(std::list<Bullet*> bullets);
+	void VerifyIsOffScreen();
+	bool mustBeDestroyed = false;
+	bool mustGoBackToRight = false;
 };

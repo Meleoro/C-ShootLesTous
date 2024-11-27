@@ -3,48 +3,52 @@
   "WorkspaceRootPath": "D:\\GIT\\C-ShootLesTous\\C\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|D:\\GIT\\C-ShootLesTous\\C\\C\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|solutionrelative:C\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|D:\\GIT\\C-ShootLesTous\\C\\C\\Bullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|solutionrelative:C\\Bullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|D:\\GIT\\C-ShootLesTous\\C\\C\\Bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|solutionrelative:C\\Bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|D:\\GIT\\C-ShootLesTous\\C\\C\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|solutionrelative:C\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|D:\\GIT\\C-ShootLesTous\\C\\C\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|solutionrelative:C\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|D:\\GIT\\C-ShootLesTous\\C\\C\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|solutionrelative:C\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|D:\\GIT\\C-ShootLesTous\\C\\C\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|solutionrelative:C\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|D:\\GIT\\C-ShootLesTous\\C\\C\\Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|solutionrelative:C\\Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|D:\\GIT\\C-ShootLesTous\\C\\C\\C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|solutionrelative:C\\C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|D:\\GIT\\C-ShootLesTous\\C\\C\\Enemy1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|solutionrelative:C\\Enemy1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|D:\\GIT\\C-ShootLesTous\\C\\C\\GameOfLife.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|solutionrelative:C\\GameOfLife.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|D:\\GIT\\C-ShootLesTous\\C\\C\\Entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|solutionrelative:C\\Entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|D:\\GIT\\C-ShootLesTous\\C\\C\\GameOfLife.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|solutionrelative:C\\GameOfLife.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|D:\\GIT\\C-ShootLesTous\\C\\C\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|solutionrelative:C\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|D:\\GIT\\C-ShootLesTous\\C\\C\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|solutionrelative:C\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|D:\\GIT\\C-ShootLesTous\\C\\C\\UIManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|solutionrelative:C\\UIManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|D:\\GIT\\C-ShootLesTous\\C\\C\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|solutionrelative:C\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|D:\\GIT\\C-ShootLesTous\\C\\C\\Enemy2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|solutionrelative:C\\Enemy2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|D:\\GIT\\C-ShootLesTous\\C\\C\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|solutionrelative:C\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|D:\\GIT\\C-ShootLesTous\\C\\C\\Enemy2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|solutionrelative:C\\Enemy2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|D:\\GIT\\C-ShootLesTous\\C\\C\\Enemy1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1AFF2F9-539F-42AB-9494-76A963F61AB3}|C\\C.vcxproj|solutionrelative:C\\Enemy1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,68 +58,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Main.cpp",
-              "DocumentMoniker": "D:\\GIT\\C-ShootLesTous\\C\\C\\Main.cpp",
-              "RelativeDocumentMoniker": "C\\Main.cpp",
-              "ToolTip": "D:\\GIT\\C-ShootLesTous\\C\\C\\Main.cpp",
-              "RelativeToolTip": "C\\Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Entity.cpp",
+              "DocumentMoniker": "D:\\GIT\\C-ShootLesTous\\C\\C\\Entity.cpp",
+              "RelativeDocumentMoniker": "C\\Entity.cpp",
+              "ToolTip": "D:\\GIT\\C-ShootLesTous\\C\\C\\Entity.cpp",
+              "RelativeToolTip": "C\\Entity.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-24T13:16:49.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T11:14:37.333Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Bullet.cpp",
-              "DocumentMoniker": "D:\\GIT\\C-ShootLesTous\\C\\C\\Bullet.cpp",
-              "RelativeDocumentMoniker": "C\\Bullet.cpp",
-              "ToolTip": "D:\\GIT\\C-ShootLesTous\\C\\C\\Bullet.cpp",
-              "RelativeToolTip": "C\\Bullet.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-24T14:32:49.211Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Bullet.h",
-              "DocumentMoniker": "D:\\GIT\\C-ShootLesTous\\C\\C\\Bullet.h",
-              "RelativeDocumentMoniker": "C\\Bullet.h",
-              "ToolTip": "D:\\GIT\\C-ShootLesTous\\C\\C\\Bullet.h",
-              "RelativeToolTip": "C\\Bullet.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Title": "Entity.h",
+              "DocumentMoniker": "D:\\GIT\\C-ShootLesTous\\C\\C\\Entity.h",
+              "RelativeDocumentMoniker": "C\\Entity.h",
+              "ToolTip": "D:\\GIT\\C-ShootLesTous\\C\\C\\Entity.h",
+              "RelativeToolTip": "C\\Entity.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-24T14:30:40.57Z"
+              "WhenOpened": "2024-10-30T11:13:51.004Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "GameManager.cpp",
               "DocumentMoniker": "D:\\GIT\\C-ShootLesTous\\C\\C\\GameManager.cpp",
               "RelativeDocumentMoniker": "C\\GameManager.cpp",
               "ToolTip": "D:\\GIT\\C-ShootLesTous\\C\\C\\GameManager.cpp",
               "RelativeToolTip": "C\\GameManager.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAH0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-24T13:20:05.773Z"
+              "WhenOpened": "2024-10-30T10:24:22.135Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GameManager.h",
-              "DocumentMoniker": "D:\\GIT\\C-ShootLesTous\\C\\C\\GameManager.h",
-              "RelativeDocumentMoniker": "C\\GameManager.h",
-              "ToolTip": "D:\\GIT\\C-ShootLesTous\\C\\C\\GameManager.h",
-              "RelativeToolTip": "C\\GameManager.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-24T14:36:46.846Z"
+              "DocumentIndex": 7,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\GIT\\C-ShootLesTous\\C\\C\\Main.cpp",
+              "RelativeDocumentMoniker": "C\\Main.cpp",
+              "ToolTip": "D:\\GIT\\C-ShootLesTous\\C\\C\\Main.cpp",
+              "RelativeToolTip": "C\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-28T15:22:45.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UIManager.cpp",
+              "DocumentMoniker": "D:\\GIT\\C-ShootLesTous\\C\\C\\UIManager.cpp",
+              "RelativeDocumentMoniker": "C\\UIManager.cpp",
+              "ToolTip": "D:\\GIT\\C-ShootLesTous\\C\\C\\UIManager.cpp",
+              "RelativeToolTip": "C\\UIManager.cpp",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswCwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-25T14:48:19.474Z"
             },
             {
               "$type": "Document",
@@ -125,69 +130,81 @@
               "RelativeDocumentMoniker": "C\\Player.cpp",
               "ToolTip": "D:\\GIT\\C-ShootLesTous\\C\\C\\Player.cpp",
               "RelativeToolTip": "C\\Player.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-24T13:07:19.879Z"
+              "WhenOpened": "2024-10-25T14:43:41.476Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Player.h",
-              "DocumentMoniker": "D:\\GIT\\C-ShootLesTous\\C\\C\\Player.h",
-              "RelativeDocumentMoniker": "C\\Player.h",
-              "ToolTip": "D:\\GIT\\C-ShootLesTous\\C\\C\\Player.h",
-              "RelativeToolTip": "C\\Player.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Enemy.h",
+              "DocumentMoniker": "D:\\GIT\\C-ShootLesTous\\C\\C\\Enemy.h",
+              "RelativeDocumentMoniker": "C\\Enemy.h",
+              "ToolTip": "D:\\GIT\\C-ShootLesTous\\C\\C\\Enemy.h",
+              "RelativeToolTip": "C\\Enemy.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-24T12:35:07.827Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Entity.h",
-              "DocumentMoniker": "D:\\GIT\\C-ShootLesTous\\C\\C\\Entity.h",
-              "RelativeDocumentMoniker": "C\\Entity.h",
-              "ToolTip": "D:\\GIT\\C-ShootLesTous\\C\\C\\Entity.h",
-              "RelativeToolTip": "C\\Entity.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-24T12:31:34.329Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "C.cpp",
-              "DocumentMoniker": "D:\\GIT\\C-ShootLesTous\\C\\C\\C.cpp",
-              "RelativeDocumentMoniker": "C\\C.cpp",
-              "ToolTip": "D:\\GIT\\C-ShootLesTous\\C\\C\\C.cpp",
-              "RelativeToolTip": "C\\C.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-09T09:44:28.198Z"
+              "WhenOpened": "2024-10-25T14:38:59.46Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "GameOfLife.cpp",
-              "DocumentMoniker": "D:\\GIT\\C-ShootLesTous\\C\\C\\GameOfLife.cpp",
-              "RelativeDocumentMoniker": "C\\GameOfLife.cpp",
-              "ToolTip": "D:\\GIT\\C-ShootLesTous\\C\\C\\GameOfLife.cpp",
-              "RelativeToolTip": "C\\GameOfLife.cpp",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAAAFkAAAA+AAAAAAAAAA==",
+              "Title": "Enemy.cpp",
+              "DocumentMoniker": "D:\\GIT\\C-ShootLesTous\\C\\C\\Enemy.cpp",
+              "RelativeDocumentMoniker": "C\\Enemy.cpp",
+              "ToolTip": "D:\\GIT\\C-ShootLesTous\\C\\C\\Enemy.cpp",
+              "RelativeToolTip": "C\\Enemy.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-24T08:56:36.105Z"
+              "WhenOpened": "2024-10-25T14:38:32.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Enemy2.cpp",
+              "DocumentMoniker": "D:\\GIT\\C-ShootLesTous\\C\\C\\Enemy2.cpp",
+              "RelativeDocumentMoniker": "C\\Enemy2.cpp",
+              "ToolTip": "D:\\GIT\\C-ShootLesTous\\C\\C\\Enemy2.cpp",
+              "RelativeToolTip": "C\\Enemy2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-25T14:38:31.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enemy1.cpp",
+              "DocumentMoniker": "D:\\GIT\\C-ShootLesTous\\C\\C\\Enemy1.cpp",
+              "RelativeDocumentMoniker": "C\\Enemy1.cpp",
+              "ToolTip": "D:\\GIT\\C-ShootLesTous\\C\\C\\Enemy1.cpp",
+              "RelativeToolTip": "C\\Enemy1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-25T14:38:31.075Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "GameOfLife.h",
-              "DocumentMoniker": "D:\\GIT\\C-ShootLesTous\\C\\C\\GameOfLife.h",
-              "RelativeDocumentMoniker": "C\\GameOfLife.h",
-              "ToolTip": "D:\\GIT\\C-ShootLesTous\\C\\C\\GameOfLife.h",
-              "RelativeToolTip": "C\\GameOfLife.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Title": "Enemy2.h",
+              "DocumentMoniker": "D:\\GIT\\C-ShootLesTous\\C\\C\\Enemy2.h",
+              "RelativeDocumentMoniker": "C\\Enemy2.h",
+              "ToolTip": "D:\\GIT\\C-ShootLesTous\\C\\C\\Enemy2.h",
+              "RelativeToolTip": "C\\Enemy2.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-24T08:52:42.47Z"
+              "WhenOpened": "2024-10-25T14:38:29.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Enemy1.h",
+              "DocumentMoniker": "D:\\GIT\\C-ShootLesTous\\C\\C\\Enemy1.h",
+              "RelativeDocumentMoniker": "C\\Enemy1.h",
+              "ToolTip": "D:\\GIT\\C-ShootLesTous\\C\\C\\Enemy1.h",
+              "RelativeToolTip": "C\\Enemy1.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-25T14:38:29.268Z"
             }
           ]
         }

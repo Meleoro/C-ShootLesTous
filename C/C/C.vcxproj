@@ -132,23 +132,27 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Background.cpp" />
     <ClCompile Include="Bullet.cpp" />
-    <ClCompile Include="C.cpp" />
     <ClCompile Include="Enemy.cpp" />
     <ClCompile Include="Enemy1.cpp" />
+    <ClCompile Include="Enemy2.cpp" />
+    <ClCompile Include="Entity.cpp" />
     <ClCompile Include="GameManager.cpp" />
-    <ClCompile Include="GameOfLife.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="Player.cpp" />
+    <ClCompile Include="UIManager.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Background.h" />
     <ClInclude Include="Bullet.h" />
     <ClInclude Include="Enemy.h" />
     <ClInclude Include="Enemy1.h" />
+    <ClInclude Include="Enemy2.h" />
     <ClInclude Include="Entity.h" />
     <ClInclude Include="GameManager.h" />
-    <ClInclude Include="GameOfLife.h" />
     <ClInclude Include="Player.h" />
+    <ClInclude Include="UIManager.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

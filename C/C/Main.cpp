@@ -1,26 +1,39 @@
 #include "GameManager.h"
+#include "UIManager.h"
 #include <SFML/Graphics.hpp>
 
 GameManager* gameManager;
+UIManager* uiManager;
 
 int main(int argc, char* argd[]) {
-	gameManager = new GameManager();
+	uiManager = new UIManager();
+	gameManager = new GameManager(uiManager);
 
-	sf::RenderWindow window(sf::VideoMode(1000, 1000), "Shoot Em Up");
+	sf::RenderWindow window(sf::VideoMode(1500, 1000), "Shoot Em Up");
+	sf::Clock clock;
+	srand(time(0));
 
 	while (window.isOpen())
 	{
-		window.clear();
-
-		gameManager->Update();
-		gameManager->Display(&window);
-
 		sf::Event event;
 		while (window.pollEvent(event))
 		{
 			if (event.type == sf::Event::Closed)
 				window.close();
 		}
+
+		sf::Time time = clock.restart();
+		float dt = time.asSeconds();
+
+		window.clear();
+
+		if (!uiManager->gameEnded) {
+			gameManager->Update(dt);
+			gameManager->Display(&window);
+		}
+
+		uiManager->Update(dt);
+		uiManager->Display(&window);
 
 		window.display();
 	}
